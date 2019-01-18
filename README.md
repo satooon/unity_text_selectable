@@ -1,3 +1,3 @@
 # unity_text_selectable
 
-![img](./screenshot.png)
+<img src="./screenshot.png" width="35%">
